@@ -5,7 +5,9 @@ Initialized empty Git repository in D:/code_22/learn_git/.git/
 
 # Markdown
 Bold    **        **Text**
+
 Italic  *       	*Text*
+
 Strike ~~         ~~Text~~
 Strikethrough   	~~ ~~
 Code (inline)	`` `Statement`
