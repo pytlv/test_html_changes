@@ -1,5 +1,16 @@
+# Learn Git in 15 minutes
+Learn Git in 15 minutes [Notion] (https://www.notion.so/zarkom/Introduction-to-Git-ac396a0697704709a12b6a0e545db049)
 PS D:\code_22\learn_git> git init
 Initialized empty Git repository in D:/code_22/learn_git/.git/
+
+# Markdown
+Bold    **        **Text**
+Italic  *       	*Text*
+Strike ~~         ~~Text~~
+Strikethrough   	~~ ~~
+Code (inline)	`` `Statement`
+This site was built using [GitHub Pages](https://pages.github.com/).
+
 
 ===
 $ git status
