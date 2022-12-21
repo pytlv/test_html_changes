@@ -4,11 +4,9 @@ PS D:\code_22\learn_git> git init
 Initialized empty Git repository in D:/code_22/learn_git/.git/
 
 # Markdown
-Bold    **        **Text**
-
-Italic  *       	*Text*
-
-Strike ~~         ~~Text~~
+Bold    **        **Text** 
+Italic  *       	*Text* 
+Strike ~~         ~~Text~~ 
 Strikethrough   	~~ ~~
 Code (inline)	`` `Statement`
 This site was built using [GitHub Pages](https://pages.github.com/).
