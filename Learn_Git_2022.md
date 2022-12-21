@@ -19,8 +19,6 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 To interrupt the current command press `CTRL-C`.
 If the bottom-left of your shell window shows --More-- you are viewing a file using more.
 To exit from more press `q`.
-=
-
 
 # git commands
 
